@@ -29,9 +29,9 @@
         <maven.compiler.target>1.7</maven.compiler.target>
     </properties>
     <scm>
-        <connection>scm:git:git@github.com:blackleg/java-exceptions.git</connection>
-        <developerConnection>scm:git:git@github.com:blackleg/java-exceptions.git</developerConnection>
-        <url>https://github.com/blackleg/java-exceptions</url>
+        <connection>scm:git:git@github.com:blackleg/java-objects.git</connection>
+        <developerConnection>scm:git:git@github.com:blackleg/java-objects.git</developerConnection>
+        <url>https://github.com/blackleg/java-objects</url>
         <tag>HEAD</tag>
     </scm>
     <build>
